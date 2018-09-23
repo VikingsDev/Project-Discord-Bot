@@ -4,6 +4,7 @@ All the resources and info you will need for Project - Discord Bot. I'll be post
 ### [Click here to be redirected back to the VikingsDev website](https://vikingsdev.github.io/resources.html)
 ### [Click here to go to the starter kit](https://github.com/FrankWhoee/DBSK)
 
+![Project - Discord Bot](https://raw.githubusercontent.com/FrankWhoee/DBSK/master/assets/ProjectDiscordBot.png)
 
 ## Lesson 1 - Starter Kit
 Meeting Date: October 17, 2018<br/>
